@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+ }
+
 .gallery{
    
     float: left;
@@ -11,7 +15,7 @@
 }
 
   
-div.gallery img {
+.gallery img {
    
     width: 300px;
     height:300px ;
@@ -32,7 +36,7 @@ div.gallery img {
     text-align: justify;
 
   }
-  .heading { 
+  p { 
       width:250px;
       object-fit: cover;
       color:blue;
