@@ -22,7 +22,7 @@ div.gallery img {
     
   }
   
-  p {
+  .desc{
     width: 280px;
     display:block;
     padding-top: 0px;
